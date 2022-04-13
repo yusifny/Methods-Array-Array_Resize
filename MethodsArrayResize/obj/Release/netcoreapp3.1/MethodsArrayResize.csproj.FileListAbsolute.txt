@@ -1,0 +1,28 @@
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.deps.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.runtimeconfig.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.runtimeconfig.dev.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.AssemblyInfo.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.genruntimeconfig.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.deps.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.runtimeconfig.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.runtimeconfig.dev.json
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/bin/Release/netcoreapp3.1/MethodsArrayResize.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.AssemblyInfo.cs
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.dll
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.pdb
+/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/obj/Release/netcoreapp3.1/MethodsArrayResize.genruntimeconfig.cache

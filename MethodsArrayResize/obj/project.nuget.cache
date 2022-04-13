@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcmmyp/2bi1TyzBP8z930Bql1zFbLxwTfVx/5r8NHCsm3t4AylwnllTUKogzaFvV+EoIIOjWBjYyPjQx8MeMVA==",
+  "success": true,
+  "projectFilePath": "/Users/yusifnazarbayov/CodeAcademy/Visual Studio/Add. Projects/MethodsArrayResize/MethodsArrayResize.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
